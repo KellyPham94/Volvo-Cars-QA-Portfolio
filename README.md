@@ -15,7 +15,7 @@ A professional QA study of **volvocars.com** to demonstrate my ability to analyz
 
 ## 🛠 Skills & Tools
 * **Methods:** ISTQB-based Testing, BVA, Equivalence Partitioning.
-* **Tools:** Chrome DevTools, uTest, Excel, Mobile Emulators.
+* **Tools:** Chrome DevTools, uTest, Google Sheets, Mobile Emulators.
 
 ---
 ### 👋 About Me
