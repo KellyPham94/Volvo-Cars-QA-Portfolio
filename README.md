@@ -9,7 +9,7 @@ A professional QA study of **volvocars.com** to demonstrate my ability to analyz
 * **User Journeys:** End-to-end flow from car selection to checkout/booking.
 
 ## 📁 Repository Structure
-* **/Test-Cases**: Structured test suites in Excel (Functional & Edge Cases).
+* **/Test-Cases**: Structured test suites in Google Sheets (Functional & Edge Cases).
 * **/Observations**: Documenting potential UX improvements and system behaviors.
 * **/Evidence**: Visual documentation of the testing process.
 
