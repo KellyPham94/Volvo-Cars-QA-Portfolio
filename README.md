@@ -25,4 +25,5 @@ A professional QA study of **volvocars.com** to demonstrate my ability to analyz
 * 📜 **Goal:** ISTQB Foundation Level candidate.
 * 💼 **Background:** Finance & Analytics (Strong eye for data accuracy).
 
-📫 [Connect with me on LinkedIn] linkedin.com/in/kelly-pham-92b2ba1a2
+📫 [Connect with me on LinkedIn] 
+   https://www.linkedin.com/in/kelly-pham-92b2ba1a2/
