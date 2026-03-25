@@ -5,7 +5,7 @@ To validate the business logic and data integrity of the car configuration proce
 
 ## 🏗️ Approach
 * **Logic Validation:** Testing if adding/removing options correctly updates the total price.
-* **Boundary Testing:** Verified the Finance Calculator with various down-payment scenarios.
+* **Boundary Testing:** Verified price range filters using extreme values(0,maximum limits, and non-numeric characters).
 * **Compatibility:** Checked dependency rules between interior trims and exterior colors.
 
 ## 📄 Documentation
