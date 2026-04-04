@@ -1,9 +1,9 @@
 # Volvo-Cars-QA-Portfolio
 QA Analysis and Test Case Design for Volvocars.com - Focus on Car Configurator and User Journey.  
+## 📌 Project Overview
+A professional QA study of **volvocars.com** to demonstrate my ability to analyze complex systems, design data-driven test cases, and identify UX improvements.  
 **View Full Test Suite & Execution Results**  
  https://docs.google.com/spreadsheets/d/1mTQ_Vsu78r4wiAclkzGWsTc-GuAYsVlgFzaTOsszZ9k/edit?usp=sharing
-## 📌 Project Overview
-A professional QA study of **volvocars.com** to demonstrate my ability to analyze complex systems, design data-driven test cases, and identify UX improvements.
 
 ## 🎯 Scope of Testing
 * **Functional Logic:** Pricing updates and accessory dependencies.
